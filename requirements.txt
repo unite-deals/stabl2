@@ -177,7 +177,7 @@ tokenizers==0.13.2
 toml==0.10.2
 tomli==2.0.1
 toolz==0.12.0
-torch==2.0.1
+torch==2.0.1+cpu
 torchdiffeq==0.2.3
 torchmetrics==0.11.0
 torchsde==0.2.5
